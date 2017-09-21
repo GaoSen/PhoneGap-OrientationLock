@@ -1,0 +1,19 @@
+{
+  "name": "com.phonegap.plugins.OrientationLock",
+  "version": "1.0.0",
+  "description": "Android Cordova plugin for locking/unlocking the screen orientation from Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaosen/PhoneGap-OrientationLock.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaosen/PhoneGap-OrientationLock/issues"
+  },
+  "homepage": "https://github.com/gaosen/PhoneGap-OrientationLock#readme"
+}
